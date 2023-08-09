@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Jiwane</h1>
 <h3 align="center">Empowering Data Engineering: Leveraging 2+ Years of Expertise in Python, PySpark, and Cloud Services for Innovative Solutions and Freshers' Mentorship</h3>
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/3f0dbff91818d4a5dc8f30a89baae99df78de5823dce80e675b1a5b0ff6e3110/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d626c2d7069797573686a6977616e65266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/3f0dbff91818d4a5dc8f30a89baae99df78de5823dce80e675b1a5b0ff6e3110/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d626c2d7069797573686a6977616e65266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" data-canonical-src="https://profile-counter.glitch.me/bl-piyushjiwane/count.svg" style="max-width: 100%;"></a></p>
+<p align="left"> <img src="https://profile-counter.glitch.me/bl-piyushjiwane/count.svg" alt="bl-piyushjiwane" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bl-piyushjiwane" alt="bl-piyushjiwane" /></a> </p>
 
